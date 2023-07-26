@@ -87,18 +87,7 @@
       ],
       "correctIndex": 2,
       "id": 10
-    },
-    {
-      "prompt": "Who is a woman",
-      "answers": [
-        "A weak Person",
-        "An object",
-        "A cleaner",
-        "A hoe"
-      ],
-      "correctIndex": 3,
-      "id": 11
-    },
+    }, 
     {
       "prompt": "WHY isnt it worjking",
       "answers": [
