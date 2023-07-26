@@ -17,7 +17,6 @@ function QuestionList() {
         {questions.map((question) => (
           <QuestionItem key={question.id} question={question} />
         ))}
-        ;
       </ul>
     </section>
   );
