@@ -9,7 +9,7 @@
         "key",
         "prop"
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": 2,
@@ -67,17 +67,6 @@
       "correctIndex": 1
     },
     {
-      "prompt": "What is a bird",
-      "answers": [
-        "mam",
-        "rept",
-        "fish",
-        "amph"
-      ],
-      "correctIndex": 0,
-      "id": 7
-    },
-    {
       "prompt": "What is a cat",
       "answers": [
         "rept",
@@ -87,6 +76,39 @@
       ],
       "correctIndex": 2,
       "id": 9
+    },
+    {
+      "prompt": "JSX",
+      "answers": [
+        "html",
+        "python",
+        "javascript,XML",
+        "Javascript,HTML"
+      ],
+      "correctIndex": 2,
+      "id": 10
+    },
+    {
+      "prompt": "Who is a woman",
+      "answers": [
+        "A weak Person",
+        "An object",
+        "A cleaner",
+        "A hoe"
+      ],
+      "correctIndex": 3,
+      "id": 11
+    },
+    {
+      "prompt": "WHY isnt it worjking",
+      "answers": [
+        "dk",
+        "why",
+        "no care",
+        "plz work"
+      ],
+      "correctIndex": 0,
+      "id": 12
     }
   ]
 }
