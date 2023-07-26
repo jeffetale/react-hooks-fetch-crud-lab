@@ -41,6 +41,8 @@ function QuestionForm({ onAddQuestion }) {
       .then((newQuestion) => setFormData(newQuestion));
   }
 
+  
+
   return (
     <section>
       <h1>New Question</h1>

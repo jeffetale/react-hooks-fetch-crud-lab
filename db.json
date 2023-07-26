@@ -78,17 +78,6 @@
       "id": 7
     },
     {
-      "prompt": "What is a bird",
-      "answers": [
-        null,
-        null,
-        null,
-        null
-      ],
-      "correctIndex": 0,
-      "id": 8
-    },
-    {
       "prompt": "What is a cat",
       "answers": [
         "rept",
